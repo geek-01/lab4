@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Audi">
+        <menu>
+            <item android:title="Audi A8"
+                android:onClick="audi"/>
+        </menu>
+    </item>
+    <item android:title="BMW">
+        <menu>
+            <item android:title="BMW i8"
+                android:onClick="bmw"/>
+        </menu>
+    </item>
+    <item android:title="Mercedes">
+        <menu>
+            <item android:title="E class"
+                android:onClick="mercedes"/>
+        </menu>
+    </item>
+</menu>
